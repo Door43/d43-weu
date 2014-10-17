@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[weu:home|Door43 (weu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-weu|d43-weu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-weu/archive/master.zip|d43-weu.zip]]
+
+**Recent Changes**
+{{changes>ns = weu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/weu|Ethnologue data]]
+
